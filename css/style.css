@@ -105,6 +105,10 @@ body {
   cursor: pointer;
 }
 
+path.current-floor{
+  opacity: 1;
+}
+
 .counter{
   font-family: 'Bebas Neue', sans-serif;
   color: #635854;
